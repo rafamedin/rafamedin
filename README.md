@@ -9,7 +9,6 @@
 
 - 📚 **Continuous Learning**: **I believe in the power of lifelong learning. I've pursued further education, including a Machine Learning Specialist certification from Stanford University, to stay at the forefront of the ever-evolving tech landscape.**
 
-- 💬 **Communication**: [I'm not only passionate about coding but also about effective communication. I can communicate complex technical concepts to both technical and non-technical stakeholders, fostering collaboration and transparency.](I'm not only passionate about coding but also about effective communication. I can communicate complex technical concepts to both technical and non-technical stakeholders, fostering collaboration and transparency.)
 
 - 🏆 **Achievements**: **I'm proud to have received the Silver Award for developing [Midnight Cat](#), a chatbot designed to support children with cancer, showcasing my dedication to impactful projects.**
 
