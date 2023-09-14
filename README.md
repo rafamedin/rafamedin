@@ -3,14 +3,14 @@
 
 - 🧠 **Education**: **I'm pursuing a  Bachelor of Science in Computer Engineering from PUC Campinas, where I honed my technical skills and problem-solving abilities.**
 
-- 🚀 **Skills**: **My technical toolbox includes a wide range of programming languages (C, Python, Java, JavaScript), expertise in databases (MSSQL, NoSQL), web development proficiency (Node.js, React, Vue, jQuery), and deep knowledge of data technologies (Azure, Hadoop, Spark, Tableau, Power BI). I'm also passionate about data analysis using R and MATLAB.**
+- 🚀 **Skills**: **My technical toolbox includes a wide range of programming languages, expertise in databases, web development proficiency, and deep knowledge of data technologies. I'm also passionate about data science and engineering!**
 
 - 💼 **Experience**: **I've had the privilege of working in diverse roles, from data analysis and administrative leadership at Prefeitura Municipal de Campinas, where I led initiatives in information security and strategic procurement, to software development and data engineering at Softkuka and CI&T, where I contributed to projects involving full-stack development, data automation, and optimization.**
 
 - 📚 **Continuous Learning**: **I believe in the power of lifelong learning. I've pursued further education, including a Machine Learning Specialist certification from Stanford University, to stay at the forefront of the ever-evolving tech landscape.**
 
 
-- 🏆 **Achievements**: **I'm proud to have received the Silver Award for developing [Midnight Cat](#), a chatbot designed to support children with cancer, showcasing my dedication to impactful projects.**
+- 🏆 **Achievements**: **I'm proud to have received the Gold Award for developing [Midnight Cat](#), a chatbot designed to support children with cancer, showcasing my dedication to impactful projects.**
 
 - 🌐 **Open Source & Projects**: **I'm an advocate for open source software and have actively contributed to projects like [Google's Women Techmakers](#) and [Robotics for All](#). These initiatives empower women in tech and underprivileged children through technology, respectively.**
 
