@@ -11,17 +11,17 @@
 
 - 💬 **Communication**: [I'm not only passionate about coding but also about effective communication. I can communicate complex technical concepts to both technical and non-technical stakeholders, fostering collaboration and transparency.](I'm not only passionate about coding but also about effective communication. I can communicate complex technical concepts to both technical and non-technical stakeholders, fostering collaboration and transparency.)
 
-- ⚡ Fun fact [🎉 I'm a cheerleader 🎉](🎉 I'm a cheerleader 🎉)
-
 - 🏆 **Achievements**: **I'm proud to have received the Silver Award for developing [Midnight Cat](#), a chatbot designed to support children with cancer, showcasing my dedication to impactful projects.**
 
 - 🌐 **Open Source & Projects**: **I'm an advocate for open source software and have actively contributed to projects like [Google's Women Techmakers](#) and [Robotics for All](#). These initiatives empower women in tech and underprivileged children through technology, respectively.**
 
-- Let's code, [innovate, and make the world a better place together! 🚀](innovate, and make the world a better place together! 🚀)
+- ⚡ Fun fact: 🎉 I'm a cheerleader 🎉
+
+- Let's code, innovate, and make the world a better place together! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafaela-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafaela-medina/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rafaela-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafaela-medina/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
