@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm 𝑅𝒶𝒻𝒶𝑒𝓁𝒶 𝑀𝑒𝒹𝒾𝓃𝒶 🌺</h1>
 <h3 align="center">A passionate and versatile software developer and data engineer with a strong foundation in computer engineering. I thrive on tackling complex challenges and crafting innovative solutions that make a real impact. Here's a glimpse into my journey:</h3>
 
-- 🧠 **Education**: **I hold a Bachelor of Science in Computer Engineering from PUC Campinas, where I honed my technical skills and problem-solving abilities.**
+- 🧠 **Education**: **I'm pursuing a  Bachelor of Science in Computer Engineering from PUC Campinas, where I honed my technical skills and problem-solving abilities.**
 
 - 🚀 **Skills**: **My technical toolbox includes a wide range of programming languages (C, Python, Java, JavaScript), expertise in databases (MSSQL, NoSQL), web development proficiency (Node.js, React, Vue, jQuery), and deep knowledge of data technologies (Azure, Hadoop, Spark, Tableau, Power BI). I'm also passionate about data analysis using R and MATLAB.**
 
